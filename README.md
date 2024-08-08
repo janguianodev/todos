@@ -18,8 +18,8 @@
  7. Execute [seeder](http://localhost:3000/api/seed) to create the local database.
 
  ## Note: Default credentials:
- __email__: test@test.com
- __password__: 123456"
+ __email__: admin@admin.com
+ __password__: admin
  
 ## Prisma commands
 ```
